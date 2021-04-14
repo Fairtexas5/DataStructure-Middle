@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1575735413 source:c:\users\mahmut ÷–‹tc‹\desktop\code blocks\odev5\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+
+1609465466 source:c:\users\lenovo\desktop\odev5\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+
